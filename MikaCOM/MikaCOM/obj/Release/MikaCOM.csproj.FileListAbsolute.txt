@@ -1,0 +1,11 @@
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\bin\Release\MikaCOM.exe.config
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\bin\Release\MikaCOM.exe
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\bin\Release\MikaCOM.pdb
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Release\MikaCOM.csprojResolveAssemblyReference.cache
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Release\MikaCOM.AddPacket.resources
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Release\MikaCOM.Form1.resources
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Release\MikaCOM.Help.resources
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Release\MikaCOM.Properties.Resources.resources
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Release\MikaCOM.csproj.GenerateResource.Cache
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Release\MikaCOM.exe
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Release\MikaCOM.pdb

@@ -1,0 +1,16 @@
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\bin\Debug\MikaCOM.exe.config
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\bin\Debug\MikaCOM.exe
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\bin\Debug\MikaCOM.pdb
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.csprojResolveAssemblyReference.cache
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.Form1.resources
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.Properties.Resources.resources
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.csproj.GenerateResource.Cache
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.exe
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.pdb
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.AddPacket.resources
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.Help.resources
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\bin\Debug\MikaCOM.exe.manifest
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\bin\Debug\MikaCOM.application
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.TrustInfo.xml
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.exe.manifest
+E:\KULIAH\sem 8\pisual\MikaCOM\MikaCOM\obj\Debug\MikaCOM.application

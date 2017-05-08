@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MikaCOM", "MikaCOM\MikaCOM.csproj", "{B21B1DA2-C431-4495-B3DC-451EDB49C6E1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MikaCOM_Setup", "MikaCOM_Setup\MikaCOM_Setup.vdproj", "{36F234C4-707A-4613-99A4-4564B242D034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21B1DA2-C431-4495-B3DC-451EDB49C6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21B1DA2-C431-4495-B3DC-451EDB49C6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21B1DA2-C431-4495-B3DC-451EDB49C6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21B1DA2-C431-4495-B3DC-451EDB49C6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F234C4-707A-4613-99A4-4564B242D034}.Debug|Any CPU.ActiveCfg = Debug
+		{36F234C4-707A-4613-99A4-4564B242D034}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
